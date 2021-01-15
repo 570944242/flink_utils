@@ -1,0 +1,112 @@
+Apache Flink
+What is Apache Flink?
+What is Stateful Functions?
+Use Cases
+Powered By
+ 
+Downloads
+Getting Started
+Documentation
+Getting Help
+Flink Blog
+flink-packages.org 
+ 
+Community & Project Info
+Roadmap
+How to Contribute
+Flink on GitHub 
+ 
+中文版
+@ApacheFlink 
+Plan Visualizer 
+Flink Security
+Apache Software Foundation 
+License  Security  Donate  Thanks 
+Apache Flink® — Stateful Computations over Data Streams
+
+
+ All streaming use cases
+Event-driven Applications
+Stream & Batch Analytics
+Data Pipelines & ETL
+Learn more
+ Guaranteed correctness
+Exactly-once state consistency
+Event-time processing
+Sophisticated late data handling
+Learn more
+ Layered APIs
+SQL on Stream & Batch Data
+DataStream API & DataSet API
+ProcessFunction (Time & State)
+Learn more
+ Operational Focus
+Flexible deployment
+High-availability setup
+Savepoints
+Learn more
+ Scales to any use case
+Scale-out architecture
+Support for very large state
+Incremental checkpointing
+Learn more
+ Excellent Performance
+Low latency
+High throughput
+In-Memory computing
+Learn more
+
+Powered by Flink
+Alibaba
+AWS
+Capital One
+Uber
+BetterCloud
+Bouygues
+Comcast
+Criteo
+Didi
+Drivetribe
+Ebay
+Ericsson
+Gojek
+Huawei
+Lyft
+King
+Klaviyo
+Kuaishou
+MediaMath
+Mux
+OPPO
+Otto Group
+OVH
+Pinterest
+Razorpay
+ResearchGate
+SK telecom
+Telefonica Next
+Tencent
+Vip
+Xiaomi
+Yelp
+Zalando
+Upcoming Events
+Flink Forward ApacheCon
+Latest Blog Posts
+Exploring fine-grained recovery of bounded data sets on Flink
+Apache Flink 1.9 introduced fine-grained recovery through FLIP-1. The Flink APIs that are made for bounded workloads benefit from this change by individually recovering failed operators, re-using results from the previous processing step. This blog post gives an overview over these changes and evaluates their effectiveness.
+What's New in the Pulsar Flink Connector 2.7.0
+With the unification of batch and streaming regarded as the future in data processing, the Pulsar Flink Connector provides an ideal solution for unified batch and stream processing with Apache Pulsar and Apache Flink. The Pulsar Flink Connector 2.7.0 supports features in Pulsar 2.7 and Flink 1.12 and is fully compatible with Flink's data format. The Pulsar Flink Connector 2.7.0 will be contributed to the Flink repository soon and the contribution process is ongoing.
+Stateful Functions 2.2.2 Release Announcement
+The Apache Flink community released the second bugfix release of the Stateful Functions (StateFun) 2.2 series, version 2.2.2.
+
+Apache Flink 1.11.3 Released
+The Apache Flink community released the third bugfix version of the Apache Flink 1.11 series.
+
+Improvements in task scheduling for batch workloads in Apache Flink 1.12
+In this blogpost, we’ll take a closer look at how far the community has come in improving task scheduling for batch workloads, why this matters and what you can expect in Flink 1.12 with the new pipelined region scheduler.
+Copyright © 2014-2019 The Apache Software Foundation. All Rights Reserved.
+
+Apache Flink, Flink®, Apache®, the squirrel logo, and the Apache feather logo are either registered trademarks or trademarks of The Apache Software Foundation.
+
+Privacy Policy · RSS feed

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7983c2d6-cf26-406f-97f6-05d9bac90eb4" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1n2X76CQNVG5G7hGol6YC40jYry" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Flink\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.scala算子的使用">
+    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="source.FileReading" />
+      <module name="Flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaSource" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="source.KafkaSource" />
+      <module name="Flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListReading" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="source.ListReading" />
+      <module name="Flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamWorldCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="single.StreamWorldCount" />
+      <module name="Flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scala算子的使用" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="算子.scala算子的使用" />
+      <module name="Flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+            <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.scala算子的使用" />
+        <item itemvalue="应用程序.KafkaSource" />
+        <item itemvalue="应用程序.FileReading" />
+        <item itemvalue="应用程序.ListReading" />
+        <item itemvalue="应用程序.StreamWorldCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7983c2d6-cf26-406f-97f6-05d9bac90eb4" name="默认的" comment="" />
+      <created>1610588996840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610588996840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1894" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1610591134075">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1894" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610591134075" />
+    <state x="1955" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610607753194">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1955" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610607753194" />
+    <state x="1895" y="100" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610589114858">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1895" y="100" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610589114858" />
+    <state x="1644" y="29" key="#项目结构" timestamp="1610589142234">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1644" y="29" key="#项目结构/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610589142234" />
+    <state x="1944" y="209" key="FileChooserDialogImpl" timestamp="1610589040406">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1944" y="209" key="FileChooserDialogImpl/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610589040406" />
+    <state width="1394" height="226" key="GridCell.Tab.0.bottom" timestamp="1610673970250">
+      <screen x="0" y="0" width="1440" height="856" />
+    </state>
+    <state width="1394" height="226" key="GridCell.Tab.0.bottom/0.0.1440.856/1440.0.1440.900@0.0.1440.856" timestamp="1610673970250" />
+    <state width="1383" height="227" key="GridCell.Tab.0.bottom/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610609762011" />
+    <state width="1394" height="226" key="GridCell.Tab.0.center" timestamp="1610673970250">
+      <screen x="0" y="0" width="1440" height="856" />
+    </state>
+    <state width="1394" height="226" key="GridCell.Tab.0.center/0.0.1440.856/1440.0.1440.900@0.0.1440.856" timestamp="1610673970250" />
+    <state width="1383" height="227" key="GridCell.Tab.0.center/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610609762011" />
+    <state width="1394" height="226" key="GridCell.Tab.0.left" timestamp="1610673970250">
+      <screen x="0" y="0" width="1440" height="856" />
+    </state>
+    <state width="1394" height="226" key="GridCell.Tab.0.left/0.0.1440.856/1440.0.1440.900@0.0.1440.856" timestamp="1610673970250" />
+    <state width="1383" height="227" key="GridCell.Tab.0.left/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610609762011" />
+    <state width="1394" height="226" key="GridCell.Tab.0.right" timestamp="1610673970250">
+      <screen x="0" y="0" width="1440" height="856" />
+    </state>
+    <state width="1394" height="226" key="GridCell.Tab.0.right/0.0.1440.856/1440.0.1440.900@0.0.1440.856" timestamp="1610673970250" />
+    <state width="1383" height="227" key="GridCell.Tab.0.right/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610609762011" />
+    <state x="1665" y="58" key="SettingsEditor" timestamp="1610593488767">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1665" y="58" key="SettingsEditor/0.0.1440.856/1440.0.1440.900@1440.0.1440.900" timestamp="1610593488767" />
+    <state x="296" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610615692000">
+      <screen x="0" y="0" width="1440" height="856" />
+    </state>
+    <state x="296" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.856/1440.0.1440.900@0.0.1440.856" timestamp="1610615692000" />
+    <state x="380" y="192" width="672" height="677" key="run.anything.popup" timestamp="1610610925596">
+      <screen x="0" y="0" width="1440" height="856" />
+    </state>
+    <state x="380" y="192" width="672" height="677" key="run.anything.popup/0.0.1440.856/1440.0.1440.900@0.0.1440.856" timestamp="1610610925596" />
+  </component>
+</project>
